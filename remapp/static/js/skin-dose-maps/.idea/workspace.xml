@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="447dbfcc-76ed-45b3-be9d-f635cd5b062b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../tools/check_coordinate_system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../openremproject/local_settings.py.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../openremproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../openremproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../openremproject/wsgi.py.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../extractors/rdsr.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../extractors/rdsr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rfSkinDoseMap3dHUDObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/rfSkinDoseMap3dHUDObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rfSkinDoseMap3dObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/rfSkinDoseMap3dObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rfSkinDoseMap3dPersonObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/rfSkinDoseMap3dPersonObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rfSkinDoseMapColourScaleObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/rfSkinDoseMapColourScaleObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rfSkinDoseMapObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/rfSkinDoseMapObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rfSkinDoseMapping.js" beforeDir="false" afterPath="$PROJECT_DIR$/rfSkinDoseMapping.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rfSkinDoseMapping3d.js" beforeDir="false" afterPath="$PROJECT_DIR$/rfSkinDoseMapping3d.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rfSkinDoseMappingAjax.js" beforeDir="false" afterPath="$PROJECT_DIR$/rfSkinDoseMappingAjax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/remapp/rf_dose_alert_email_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/remapp/rf_dose_alert_email_template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/remapp/rf_dose_alert_email_template.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/remapp/rf_dose_alert_email_template.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../templates/remapp/rfdetail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../templates/remapp/rfdetail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tools/make_skin_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tools/make_skin_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tools/openskin/calc_exp_map.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tools/openskin/calc_exp_map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tools/openskin/geomclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tools/openskin/geomclass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tools/openskin/geomfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tools/openskin/geomfunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tools/openskin/skinMap.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tools/openskin/skinMap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../tools/send_high_dose_alert_emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../tools/send_high_dose_alert_emails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../scripts/openrem_rdsr.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../scripts/openrem_rdsr.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1UjqZfZuN6KCnsSIFilW1zzHY68" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="447dbfcc-76ed-45b3-be9d-f635cd5b062b" name="Default Changelist" comment="" />
+      <created>1575880408910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575880408910</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
